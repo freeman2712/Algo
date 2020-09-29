@@ -1,3 +1,5 @@
+//SubsetSum Naíve Recursion
+
 #include <iostream>
 int SubsetSum(int*, int, int);
 int main()
